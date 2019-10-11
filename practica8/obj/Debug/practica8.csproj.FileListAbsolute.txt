@@ -1,0 +1,7 @@
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\bin\Debug\practica8.exe.config
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\bin\Debug\practica8.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\bin\Debug\practica8.pdb
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\obj\Debug\practica8.csprojResolveAssemblyReference.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\obj\Debug\practica8.csproj.CoreCompileInputs.cache
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\obj\Debug\practica8.exe
+C:\Users\Dr_Braghiroli\Desktop\Desarrollo en software\Ciclo II-2019\Programacion Estructurada\2do Periodo\Practica 8\practica8\practica8\obj\Debug\practica8.pdb
